@@ -235,6 +235,8 @@ The threshold optimization process produces curves showing:
 For advanced interactive visualizations, visit the Tableau dashboard:
 **[Project B Dashboard](https://public.tableau.com/app/profile/yuhao.huang/viz/ProjectB_17648627756280/1_1?publish=yes)**
 
+![Tableau Dashboard](B1.png)
+
 ## Tech Stack
 
 - **Data Processing**: pandas, numpy
