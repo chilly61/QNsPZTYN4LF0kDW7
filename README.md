@@ -250,6 +250,8 @@ For advanced interactive visualizations, visit the Tableau dashboard:
 
 Thanks to the Apziva team for their support and guidance.
 
+
 ## License
 
-This project is for internal use only.
+MIT
+
